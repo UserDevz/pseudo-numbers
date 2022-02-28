@@ -11,11 +11,12 @@
   <li>A sequência gerada repete-se eventualmente após um período muito longo
 </details>
 
-<strong><li>Números pseudoaleatorios:</strong> https://pt.m.wikipedia.org/wiki/Gerador_de_n%C3%BAmeros_pseudoaleat%C3%B3rios
-
 <i><strong>Modo de uso:</strong></i></br>
 
     git clone https://github.com/UserDevz/pseudo-numbers
     cd pseudo-numbers
     gcc pseudoaleatorios.c -o <novo nome>
     ./<novo nome>
+
+
+<strong><li>Números pseudoaleatorios:</strong> https://pt.m.wikipedia.org/wiki/Gerador_de_n%C3%BAmeros_pseudoaleat%C3%B3rios

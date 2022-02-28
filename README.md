@@ -3,7 +3,7 @@
 <p>gerador de números pseudoaleatorios feito na linguagem C!</b>
 
 <details>
-  <summary> Explicação</summary></br>
+  <summary> <b>Explicação</b></summary></br>
   <li>A função rand() utiliza um algoritmo determinístico</br>
   <li>Cada valor é calculado como função matemática do anterior</br>
    > a implementação usa variável de estado global;
@@ -12,3 +12,10 @@
 </details>
 
 <strong><li>Números pseudoaleatorios:</strong> https://pt.m.wikipedia.org/wiki/Gerador_de_n%C3%BAmeros_pseudoaleat%C3%B3rios
+
+<i><strong>Modo de uso:</strong></i></br>
+
+    git clone https://github.com/UserDevz/pseudo-numbers
+    cd pseudo-numbers
+    gcc pseudoaleatorios.c -o <novo nome>
+    ./<novo nome>
